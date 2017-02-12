@@ -178,3 +178,17 @@ I:\Personal\E\GitHub\New Repo\WebApplication1\WebApplication1\bin\System.Web.Htt
 I:\Personal\E\GitHub\New Repo\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
 I:\Personal\E\GitHub\New Repo\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 I:\Personal\E\GitHub\New Repo\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+I:\Personal\E\GitHub\New Repo\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+I:\Personal\E\GitHub\New Repo\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+I:\Personal\E\GitHub\New Repo\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+I:\Personal\E\GitHub\New Repo\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+I:\Personal\E\GitHub\New Repo\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\Personal\E\GitHub\New Repo\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\Personal\E\GitHub\New Repo\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\Personal\E\GitHub\New Repo\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\Personal\E\GitHub\New Repo\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+I:\Personal\E\GitHub\New Repo\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\Personal\E\GitHub\New Repo\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+I:\Personal\E\GitHub\New Repo\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\Personal\E\GitHub\New Repo\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+I:\Personal\E\GitHub\New Repo\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
